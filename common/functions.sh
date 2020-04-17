@@ -16,6 +16,11 @@ cleanup() {
   rm -rf $MODPATH/common 2>/dev/null
   ui_print " "
   ui_print "    **************************************"
+  ui_print "    *  Fingerprint Swipe Module by Aswin08 @ XDA   *"
+  ui_print "    **************************************"
+  ui_print " "
+  ui_print " "
+  ui_print "    **************************************"
   ui_print "    *   MMT Extended by Zackptg5 @ XDA   *"
   ui_print "    **************************************"
   ui_print " "
