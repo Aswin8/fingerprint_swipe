@@ -1,4 +1,4 @@
-<h1 align="center">Fingerprint Swipe Gestures for OnePlus 5T (Magisk Module))</h1>
+<h1 align="center">Fingerprint Swipe Gestures for OnePlus 5T (Magisk Module)</h1>
 
 <div align="center">
   <!-- Version -->
